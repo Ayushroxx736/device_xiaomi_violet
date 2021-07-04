@@ -28,4 +28,7 @@
   <!-- Smart Charging -->
   <bool name="config_supportSmartCharging">true</bool>
 
+<!-- Official Maintainer Name -->
+  <string name="blaster_maintainer">Ayush</string>
+
 </resources>
